@@ -1,6 +1,9 @@
 # Sound data (can be downloaded form kaggle)
 data/
 
+# Submission
+submission.csv
+
 # Debug image visualisation data
 preview/
 
