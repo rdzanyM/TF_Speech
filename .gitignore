@@ -1,6 +1,10 @@
 # Sound data (can be downloaded form kaggle)
 data/
 
+# Pseudo labels and other test set shenangians
+pseudo/
+low/
+
 # Submission
 submission.csv
 
